@@ -1,0 +1,11 @@
+* { box-sizing: 
+  border-box;
+}
+.carousel {
+  margin-top: 110px;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
