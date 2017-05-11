@@ -1,0 +1,26 @@
+{
+  "name": "repo-grunt-test",
+  "version": "1.0.0",
+  "description": "example repo grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-tet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mydifolt/kodilla-week-7---test-project-8.5-.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Piotr Tomaszuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mydifolt/kodilla-week-7---test-project-8.5-/issues"
+  },
+  "homepage": "https://github.com/mydifolt/kodilla-week-7---test-project-8.5-#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  }
+}
